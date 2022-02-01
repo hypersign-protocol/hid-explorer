@@ -1,0 +1,28 @@
+{
+  "title": "Desmos Block Explorer",
+  "network": "hidnode",
+  "icon": "https://assets.coingecko.com/coins/images/16158/small/hypersign_ONLYlogo_Yellow.png?1623140987",
+  "logo": {
+    "default": "https://thumb.tildacdn.com/tild3065-3765-4865-b331-393637653931/-/resize/150x/-/format/webp/hypersign_Yellow.png"
+  },
+  "prefix": {
+    "consensus": "cosmosvalcons",
+    "validator": "cosmosvaloper",
+    "account": "cosmos"
+  },
+  "genesis": {
+    "time": "2021-07-13T08:00:00",
+    "height": 1
+  },
+  "primaryTokenUnit": "uatom",
+  "votingPowerTokenUnit": "uatom",
+  "tokenUnits": {
+    "uatom": {
+      "display": "atom",
+      "exponent": 6
+    }
+  },
+  "extra": {
+    "profile": true
+  }
+}
